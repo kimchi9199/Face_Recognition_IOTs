@@ -1,0 +1,4 @@
+/Users/sarah/Library/Android/sdk/cmake/3.22.1/bin/ninja \
+  -C \
+  "/Users/sarah/Desktop/FaceRecognition - Final/FaceRecognitionMobileClient/sdk/.cxx/Debug/566r231o/arm64-v8a" \
+  opencv_jni_shared
